@@ -1,0 +1,103 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "webServer/webServer"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable"
+		],
+		"files" : 
+		[
+			"webServer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "webServer::@8a9e8760c9b51f5fd0f7",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "webServer",
+	"nameOnDisk" : "webServer",
+	"paths" : 
+	{
+		"build" : "webServer",
+		"source" : "webServer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "webServer/webServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "webServer/webServer.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

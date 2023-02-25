@@ -1,0 +1,3 @@
+/mnt/d/My_project/webServer/webServer/webServer/out/build/linux-default/CMakeFiles/rebuild_cache.dir
+/mnt/d/My_project/webServer/webServer/webServer/out/build/linux-default/CMakeFiles/edit_cache.dir
+/mnt/d/My_project/webServer/webServer/webServer/out/build/linux-default/CMakeFiles/webServer.dir

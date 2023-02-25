@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "webServer",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "webServer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "webServer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "webServer::@8a9e8760c9b51f5fd0f7",
+					"jsonFile" : "target-webServer-Debug-f362bce06db864461077.json",
+					"name" : "webServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My_project/webServer/webServer/out/build/windows-default",
+		"source" : "D:/My_project/webServer/webServer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

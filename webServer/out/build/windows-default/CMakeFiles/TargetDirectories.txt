@@ -1,0 +1,5 @@
+D:/My_project/webServer/webServer/out/build/windows-default/CMakeFiles/edit_cache.dir
+D:/My_project/webServer/webServer/out/build/windows-default/CMakeFiles/rebuild_cache.dir
+D:/My_project/webServer/webServer/out/build/windows-default/webServer/CMakeFiles/webServer.dir
+D:/My_project/webServer/webServer/out/build/windows-default/webServer/CMakeFiles/edit_cache.dir
+D:/My_project/webServer/webServer/out/build/windows-default/webServer/CMakeFiles/rebuild_cache.dir

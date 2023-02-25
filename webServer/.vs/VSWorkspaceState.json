@@ -1,0 +1,9 @@
+{
+  "ActiveTargetSystem": "WSL: ubuntu2204",
+  "ExpandedNodes": [
+    "",
+    "\\webServer"
+  ],
+  "SelectedNode": "\\webServer\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
